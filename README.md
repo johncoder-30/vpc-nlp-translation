@@ -19,7 +19,7 @@ Stage-4: (Bonus points) Compare the model with other services
 - Then using this library (https://github.com/UlionTse/translators) we translated the tamil sentences
 - then calculated the BLEU scores using the same NLTK library
 
-###BLEU score computation for translated sentence using AI4BHARAT Model
+### BLEU score computation for translated sentence using AI4BHARAT Model
 - BLEU score of para 1 is 0.003816793893129772
 - BLEU score of para 2 is 0.019354838709677424
 - BLEU score of para 3 is 0.006864988558352401
@@ -31,7 +31,7 @@ Stage-4: (Bonus points) Compare the model with other services
 - BLEU score of para 9 is 0.01955555555555556
 - BLEU score of para 10 is 0.023578363384188623
 
-###BLEU score computation for translated sentence using UlionTse library
+### BLEU score computation for translated sentence using UlionTse library
 - BLEU score of para 1 is 0.011363636363636359
 - BLEU score of para 2 is 0.005181347150259067
 - BLEU score of para 3 is 0.021739130434782608
