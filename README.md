@@ -3,7 +3,7 @@
 
 Stage-1: Building Parallel Dataset
 
- - We looped through the data separated it by full stop, used regex to remove items in brackets.
+ - We looped through the data separated it by full stop, then used regex to remove items in brackets.
  - then we manually corrected one to many and many to one statements
 
 Stage-2: Running a Neural Machine Translation Model
@@ -12,7 +12,7 @@ Stage-2: Running a Neural Machine Translation Model
 
 Stage-3: Computing the scores of translation
 
-- Then for BLEU score we used the NLTK library and passed the english translated and english sentences
+- Then for BLEU score we used the NLTK library and passed the english translated sentences and english sentences
 
 Stage-4: (Bonus points) Compare the model with other services
 
