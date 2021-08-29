@@ -36,7 +36,7 @@ Stage-4: (Bonus points) Compare the model with other services
 - BLEU score of para 2 is 0.005181347150259067
 - BLEU score of para 3 is 0.021739130434782608
 - BLEU score of para 4 is 0.002881844380403458
-- BLEU score of para 5 is 0
+- BLEU score of para 5 is 0.048701298701298704
 - BLEU score of para 6 is 0.017751479289940832
 - BLEU score of para 7 is 0.02727272727272727
 - BLEU score of para 8 is 0.021857923497267763
