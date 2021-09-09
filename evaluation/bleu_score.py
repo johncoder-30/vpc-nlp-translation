@@ -1,8 +1,8 @@
 from nltk.translate.bleu_score import corpus_bleu
 
 test = open('./data/eng_equalized.txt', 'r').read().split('\n\n')
-pred = open('./data/ulison_translate.txt', 'r').read().split('\n\n')
-
+pred = open('./translations/ulison translate.txt', 'r').read().split('\n\n')
+#pred = open('./translations/translated.txt', 'r').read().split('\n\n') //uncomment to compute bleu score for AI4Bharat translated sentences
 for i in range(10):
     test_line = []
     pred_line = []
